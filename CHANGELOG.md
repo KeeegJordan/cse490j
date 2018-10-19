@@ -1,4 +1,10 @@
-commit 909e6f6a8316622004948bfc46b5ed6ee970f3ce (HEAD -> master, origin/master, origin/HEAD)
+commit ee88d45515a6ed13f3abbfb841ffdadc2f6ad4d4 (HEAD -> master)
+Author: KeeegJordan <keeganbbjordan@gmail.com>
+Date:   Fri Oct 19 00:09:47 2018 -0700
+
+    updated readme
+
+commit 909e6f6a8316622004948bfc46b5ed6ee970f3ce
 Author: KeeegJordan <keeganbbjordan@gmail.com>
 Date:   Thu Oct 18 23:58:33 2018 -0700
 
