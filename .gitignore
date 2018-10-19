@@ -1,0 +1,11 @@
+Library/
+Temp/
+Obj/
+Build/
+
+*.unityproj
+*.csproj
+*.apk
+*.unitypackage
+*.sln
+*.tmp
