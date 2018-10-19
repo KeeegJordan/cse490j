@@ -1,4 +1,16 @@
-commit 2b94fa25961649f51bc938c9d0873816839b4e2b (HEAD -> master, origin/master, origin/HEAD)
+commit 909e6f6a8316622004948bfc46b5ed6ee970f3ce (HEAD -> master, origin/master, origin/HEAD)
+Author: KeeegJordan <keeganbbjordan@gmail.com>
+Date:   Thu Oct 18 23:58:33 2018 -0700
+
+    added readme
+
+commit 723f755f7bc38115b31cfe205b8bec2c572efb6b
+Author: KeeegJordan <keeganbbjordan@gmail.com>
+Date:   Thu Oct 18 23:57:21 2018 -0700
+
+    added CHANGELOG.md
+
+commit 2b94fa25961649f51bc938c9d0873816839b4e2b
 Author: KeeegJordan <keeganbbjordan@gmail.com>
 Date:   Thu Oct 18 23:49:54 2018 -0700
 
