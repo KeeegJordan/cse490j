@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{09A6FEAF-B320-D195-8C43-7F2992E82925}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ReadMe.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs">
     <Files>
       <File FileName="Assets/LightningFlash.cs" Line="31" Column="32" />
-      <File FileName="Assets/LightningFlashChild.cs" Line="85" Column="10" />
+      <File FileName="Assets/LightningFlashChild.cs" Line="52" Column="5" />
       <File FileName="Assets/ReadMe.cs" Line="7" Column="33" />
+      <File FileName="Assets/PostProcessing/Utilities/PostProcessingController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs" Line="139" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
